@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Activity-->
+    <string name="app_name">RCX PRO</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Início</string>
+    <string name="title_settings">Configurações</string>
+
+    <!--Avisos-->
+    <string name="a1">Salvo nas Configurações</string>
+    <string name="a2">Preencha os campos corretamente</string>
+    <string name="a3">Conexão não estabelecida com o servidor</string>
+    <string name="a4">Verifique sua conexão e Atualize sua tela.</string>
+    <string name="a5">Botão sem dados de envio configurado</string>
+    <!--Botões-->
+    <string name="button_configs_b1">Alterar Endereço e Porta de conexão</string>
+    <string name="button_configs_b2">Alterar comandos de envio dos botões</string>
+    <string name="button_address_activity">Conectar/Salvar</string>
+    <string name="button_commands_activity">Salvar</string>
+
+    <!--descrição das activitys de configuração-->
+    <string name="description_activity_address">Configurar Enderereço/Porta:</string>
+    <string name="description_activity_Commands_1">Botão Liga/Desliga:</string>
+    <string name="description_activity_Commands_2">Botões de funções:</string>
+
+    <!--Hint dos EditText-->
+    <string name="hint_address_activity_address">Endereço</string>
+    <string name="hint_address_activity_port">Porta</string>
+    <string name="hint_commands_activity_valueoff">Comando desligar</string>
+    <string name="hint_commands_activity_valueon">Comando ligar</string>
+    <string name="hint_commands_activity_value">Comando</string>
+    <string name="hint_commands_activity_name">Nome do botão</string>
+    <string name="title_activity_settings">Configurações</string>
+    <string name="other_header">Outros</string>
+    <string name="connection_header">Conexão</string>
+</resources>

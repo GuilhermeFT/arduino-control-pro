@@ -1,0 +1,44 @@
+<resources>
+
+
+    <string name="app_name">RCX PRO</string>
+
+    <string name="a1">Saved in settings</string>
+    <string name="a2">Fill in the fields correctly</string>
+    <string name="a3">Connection not established with the server</string>
+    <string name="a4">Check your connection and update your screen.</string>
+    <string name="a5">No Send Data button configured</string>
+
+    <string name="button_address_activity">Connect / Save</string>
+    <string name="button_commands_activity">Save</string>
+    <string name="button_configs_b1">Change Address and Connection Port</string>
+    <string name="button_configs_b2">Change button push commands</string>
+
+    <string name="description_activity_Commands_1">Power button:</string>
+    <string name="description_activity_Commands_2">Function buttons:</string>
+    <string name="description_activity_address">Configure Address / Port:</string>
+
+    <string name="hint_address_activity_address">Address</string>
+    <string name="hint_address_activity_port">Port</string>
+    <string name="hint_commands_activity_name">Button name</string>
+    <string name="hint_commands_activity_value">Command</string>
+    <string name="hint_commands_activity_valueoff">Command off</string>
+    <string name="hint_commands_activity_valueon">Command on</string>
+
+    <string name="title_settings">Settings</string>
+    <string name="title_home">Main</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="connection_header">Connection</string>
+    <string name="other_header">Others</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>
